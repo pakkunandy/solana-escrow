@@ -6,10 +6,7 @@ license = "WTFPL"
 publish = false
 
 [dependencies]
-solana-program = "1.6.8"
-
-[features]
-test-bpf = []
+solana-program = "1.7.0"
 
 [dev-dependencies]
 assert_matches = "1.4.0"
